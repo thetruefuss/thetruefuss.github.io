@@ -1,0 +1,11 @@
+a {
+  border-bottom: 2px solid;
+  color: #212529;
+  font-weight: 600;
+}
+
+a:hover,
+a:active {
+  text-decoration: none;
+  color: #212529;
+}
